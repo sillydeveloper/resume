@@ -99,6 +99,6 @@ LinkedIn: [/in/sillydeveloper](http://www.linkedin.com/in/sillydeveloper)
 
 GitHub: [sillydeveloper](https://github.com/sillydeveloper)
 
-[Download this resume](https://github.com) and compile it into your own format.
+[Download this resume](https://github.com/sillydeveloper/resume) and compile it into your own format.
 
 **_References provided on request._**
