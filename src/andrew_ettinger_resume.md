@@ -1,6 +1,6 @@
 # Andrew Ettinger
 Portland, Oregon  
-[silly\*\*\*\*\*\*\*@gmail.com](mailto:silly\*\*\*\*\*\*\*@gmail.com)  
+[silly\*\*\*\*\*\*\*@gmail.com](mailto:silly*******@gmail.com)  
 503.997.\*\*\*\*
 
 * * *
