@@ -3,6 +3,13 @@ module.exports = function(grunt) {
   "use strict";
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
+    markdownpdf: {
+      options: { },
+      files: {
+        src: "src/*.md",
+        dest: "pdf"
+      }
+    }, // markdownpdf
     markdown: {
       all: {
         files: [
@@ -24,8 +31,8 @@ module.exports = function(grunt) {
     }, // markdown
     watch: {
       markdown: {
-        files:['src/*.md', 'src/assets/templates/resume.html'],
-        tasks:['markdown'],
+        files:['src/*.md', 'src/assets/templates/*.html'],
+        tasks:['markdown', 'markdownpdf'],
         options: {
           livereload: true,
         }
@@ -44,6 +51,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-markdown');
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-contrib-connect');
+  grunt.loadNpmTasks('grunt-markdown-pdf');
 
   grunt.registerTask('default', ['connect', 'watch']);
 }
