@@ -4,7 +4,8 @@ module.exports = function(grunt) {
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
     markdownpdf: {
-      options: { },
+      options: {
+      },
       files: {
         src: "src/*.md",
         dest: "pdf"
@@ -31,7 +32,7 @@ module.exports = function(grunt) {
     }, // markdown
     watch: {
       markdown: {
-        files:['src/*.md', 'src/assets/templates/*.html'],
+        files:['src/*.md', 'Gruntfile.js', 'src/assets/templates/*.html'],
         tasks:['markdown', 'markdownpdf'],
         options: {
           livereload: true,

@@ -17,6 +17,3 @@ I don't like maintaining my resume. So I'm automating it!
 
 Feel free to clone this repository and replace my markdown. If there's interest I'll abstract it further.
 
-### License
-
-This is almost completely libraries, so we'll go MIT.
