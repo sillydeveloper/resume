@@ -4,6 +4,7 @@ module.exports = function(grunt) {
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
     markdownpdf: {
+      cssPath: "//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css",
       options: {
       },
       files: {
@@ -48,6 +49,8 @@ module.exports = function(grunt) {
       } // server
     } // connect
   }); // grunt.initConfig()
+
+
 
   grunt.loadNpmTasks('grunt-markdown');
   grunt.loadNpmTasks('grunt-contrib-watch');

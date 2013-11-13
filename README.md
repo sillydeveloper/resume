@@ -16,4 +16,3 @@ I don't like maintaining my resume. So I'm automating it!
 ### But I don't like maintaining my resume either
 
 Feel free to clone this repository and replace my markdown. If there's interest I'll abstract it further.
-

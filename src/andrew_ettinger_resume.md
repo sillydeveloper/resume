@@ -1,7 +1,7 @@
 # Andrew Ettinger
 Portland, Oregon  
-[silly\*\*\*\*\*\*\*@gmail.com](mailto:silly*******@gmail.com)  
-503.997.\*\*\*\*
+[sillydeveloper@gmail.com](mailto:sillydeveloper@gmail.com)  
+503.997.5901
 
 * * *
 
@@ -15,16 +15,33 @@ I've worked professionally with many different technologies and teams over the p
 * Energy analysis software
 * Dynamic reporting systems
 * Field service automation and CRM
+* Social management software for brands
 
 * * *
 
 ### Details
+
+#### Postano / TigerLogic
+** Senior Front End Engineer **  
+August 2013 – Present  
+Technologies: Node.js, AngularJS, JavaScript, jQuery, SCSS, git, Python
+
+At Postano, my goal was to help them deliver the best possible experience in the short couple of months they had to build and deploy a new version of their core product.
+
+* Architected their embeddable web social software to be extendable, increasing their product line and sales opportunities 
+* Rapidly moved their event based mockups to a more manageable Angular code base
+* Tooled Angular to fit their modal, wizard-centric design
+* Worked with a remote team to help spec and manage the Postano APIs
+* Consolidated multiple codebases into a manageable core
+
+* * *
  
 #### InGrid Solutions 
 ** Technical Co-Founder **  
-September 2011 – Present  
+September 2011 – August 2013  
+Technologies: Ruby, Rails, Postgres, JavaScript, jQuery, CSS3, HTML5, git, PhoneGap, Kendo, iOS, Android, AWS
 
-As technical co-founder I participated in all aspects of business and technical development. 
+As technical co-founder I participated in all aspects of business and technical development.
 
 * Proved concept with an MVP
 * Successfully raised based on MVP experience
@@ -37,7 +54,8 @@ As technical co-founder I participated in all aspects of business and technical 
 
 #### AirAdvice   
 ** Principal Software Engineer **  
-2006 – September 2011
+2006 – September 2011  
+Technologies: PHP, mySQL, Gearman, VB, Salesforce, C, Hudson, JavaScript, jQuery, git
 
 At AirAdvice my role was to provide technical leadership in modernizing their existing applications and develop new energy products to break into new markets.
 
@@ -51,7 +69,8 @@ At AirAdvice my role was to provide technical leadership in modernizing their ex
 
 #### Lunar Logic
 ** Software Developer **  
-2004 – 2006
+2004 – 2006  
+Technologies: PHP, Ruby, Rails, mySQL, Java, Spring, Hibernate, JavaScript, Prototype, Flash, SVN
 
 My team at Lunar Logic was in charge of internal applications for a 180 person development crew. We also provided some light external subcontracting. 
 
@@ -66,24 +85,28 @@ My team at Lunar Logic was in charge of internal applications for a 180 person d
 #### Other Highlights
 
 #### Lane Forest Business Development
-2003 – 2004
+2003 – 2004  
+Technologies: PHP, JavaScript, Flash, ActiveX, CSS
 
 Business tools and software support to a wide array of business processes and product lines. Custom CMS with product tracking and reporting tools. 
 
 #### University of Oregon
-2001 – 2002
+2001 – 2002  
+Technologies: VB, SQLServer
 
 Rebuilt the Knight Library Systems Department's billing and late fee management system. Included rigorous error checking, integration with the main University account management systems and a new desktop front-end.
 
 #### PremiereLink Communications 
-2000 – 2001
+2000 – 2001  
+Technologies: ColdFusion, JavaScript, CSS
 
 Providing software development for a variety of clients throughout the Northwest, I built a reusable inventory tracking, shopping cart, and CMS system with approval mechanisms, simplified HTML markup and internal application deployment systems.
 
 #### Oregon State University
-1998 – 1999
+1998 – 1999  
+Technologies: ColdFusion, JavaScript, CSS
 
-Built one of the first online course tools for the Communications Media Center.
+Built one of the first online course tools for the Communications Media Center. The system integrated with the main course catalog, and gave professors access to a variety of tools to help them build online course content including tests.
 
 * * *
 
