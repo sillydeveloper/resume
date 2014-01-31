@@ -4,7 +4,7 @@ module.exports = function(grunt) {
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
     markdownpdf: {
-      cssPath: "//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css",
+      cssPath: "//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css",
       options: {
       },
       files: {
