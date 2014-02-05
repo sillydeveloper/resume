@@ -17,6 +17,8 @@ I've worked professionally with many different technologies and teams over the p
 * Field service automation and CRM
 * Social engagement software for brands, events, and sports teams
 
+In addition I have extensive Java experience at University.
+
 * * *
 
 ### Details
@@ -26,30 +28,31 @@ I've worked professionally with many different technologies and teams over the p
 August 2013 – Present  
 Technologies: JavaScript, AngularJS, Node.js, Redis, Grunt, D3, jQuery, SCSS, git, Python, lodash / underscore
 
-I was brought in to help Postano launch version 2.0 of their social platform for brands, events and sports teams, which Postano launched successfully in November of 2013. We've had two major updates since then, and a lot of little improvements. My goal was to help them deliver the best possible experience to their customers while stabilizing their software development process and making sure products were meeting market needs.
+I was brought in to help Postano launch version 2.0 of their social platform for brands, events and sports teams, which Postano launched successfully in November of 2013. My goal has been to help them deliver the best possible experience to their customers while providing leadership within their software development process. My primary responsibilities include leading architecture discussions within Postano's three major technical teams, interfacing with design and UX teams to translate and communicate technical needs, mentoring junior developers, and building core product.
 
-* Architected and implemented Postano's custom built embeddable JavaScript web software into an extensible framework, providing maintainability and rapid development of new products
-* Built a modal, wizard-centric social management interface using AngularJS' services, directives, a custom router, and MVVM patterns
-* Used Node.js and Redis to act not only as a web server for the AngularJS application, but also as an API proxy to provide additional services like authentication, data normalization, caching, and batch processing for both the AngularJS app and the embeddable client
-* Used the lodash / underscore templating engine to apply layouts to social media posts from a variety of sources
+* Architected and implemented Postano's embeddable JavaScript web software into an extensible framework, providing maintainability and rapid development of new products
+* Designed and built a modal, wizard-centric social management interface using AngularJS' services, directives, a custom router, and MVVM patterns
+* Used Node.js and Redis as a web server for the AngularJS application, an API proxy to provide additional services like authentication, data normalization, caching, and batch processing
+* Led the API design process
 * Gave customers a social data analytics dashboard using NVD3.js for line charts, D3.js for bubble charts, and a custom tag cloud
 * Introduced unit testing using Mocha for both the embedded JavaScript framework and AngularJS
-* Brought in API design processes to keep teams moving forward immediately after an API designed
-* Implemented version management to keep Postano's master branch stable at all times
+* Introduced low-overhead processes to maintain stability: introduced a QA process, a standard branching strategy, and a prototype-to-deployment process that maintains agility
+* Used the lodash / underscore templating engine to apply layouts to social media posts from a variety of sources
 
 * * *
  
 #### IGS
 ** Technical Co-Founder **  
 September 2011 – August 2013  
-Technologies: Ruby, Rails, JavaScript, Postgres, jQuery, CSS3, HTML5, git, PhoneGap, Kendo, iOS, Android, AWS, Solr, haml
+Technologies: JavaScript, haml, PhoneGap, Kendo, iOS, Android, jQuery, CSS3, HTML5, AWS, Ruby, Rails, Postgres, git, Solr
 
-IGS built disptach management applications for the heating, cooling and air-conditioning industry to help small business owners get control of their paperwork, get organized, and optimize the schedules of their technicians and installers. As the technical co-founder I participated in all aspects of business and technical development.
+IGS built disptach management applications for the heating, cooling and air-conditioning industry to help small business owners  optimize the schedules of their technicians and installers. As the technical co-founder I participated in all aspects of business and technical development. My primary responsibilities included product development and delivery, including personnel management and budgeting, product roadmap, market analysis for feature discovery and design, as well as building the core product and supporting it.
 
-* Built a single page dispatch web application using Rails and a custom front-end routing library I built called [lunchbox](https://github.com/sillydeveloper/lunchbox) that allows a single page application to be stateful with multiple modal-like application states
+* Provided architecture, project management and built a majority of the single page dispatch web application using Rails and a custom front-end routing library I built called [lunchbox](https://github.com/sillydeveloper/lunchbox) that allows a single page application to be stateful with multiple modal-like application states
+* Managed three contract developers and two contract designers, as well as worked with three agencies, to help bring IGS to life
 * Managed company AWS infrastructure, including deployments and environment management
+* Used Kendo and PhoneGap to build and deploy a mobile version for technicians in the field
 * Built company from successful MVP experience to fundraising to sales and support; provided COGS and new feature analysis along the way
-* Managed contract workers to meet business objectives
 * Used haml templates for markup
 
 * * *
@@ -59,14 +62,12 @@ IGS built disptach management applications for the heating, cooling and air-cond
 2006 – September 2011  
 Technologies: PHP, mySQL, Gearman, jpGraph (charting), VB, Salesforce, C, Jenkins/Hudson, JavaScript, jQuery, git
 
-At AirAdvice my role was to provide technical leadership in modernizing their existing applications and develop new energy products to break into new markets.
+At AirAdvice my role was to provide technical leadership in modernizing their existing applications and develop new energy products to break into new markets. I held the title of Principal Software Engineer from 2007-2011. My responsibilities included  establishing technical feasibility, providing architecture, giving mentorship, gathering requirements from customers, establishing the company's technical roadmap, as well as contributing heavily to the development of core products.
 
-* Developed a service oriented architecture for environmental monitor data that included energy modeling software, report generation, and data aggregation systems
-* Built complex web based inputs to take in building technical data from customers and provide energy analysis using an JavaScript and an object oriented [MVC PHP framework](https://github.com/sillydeveloper/ploof) I developed
-* Designed and implemented a data analysis toolset in PHP that could calculate things like: when lights were left on at night, whether or not a building's economizer was working properly, or if the temperature in the building was meeting the building management system's schedule
-* Managed the largest indoor air quality dataset in the US (100GB in mySQL at the time)
+* Led a team of three developers, a QA engineer, and a designer to develop a service oriented architecture for building environmental monitoring data that included energy modeling software, report generation, and data aggregation systems
+* Took complex input requirements and architected, built, and deployed web-based wizards to take in building technical data from customers and provide energy analysis, using JavaScript and an object oriented [MVC PHP framework](https://github.com/sillydeveloper/ploof) I created
+* Designed and implemented a data analysis toolset in PHP that could calculate building performance based on a variety of heuristics: when lights were left on at night, whether or not a building's economizer was working properly, or if the temperature in the building was meeting the building management system's schedule
 * Built charting tools on top of jpGraph to display additional building data like occupancy schedules
-* Provided feedback and technical knowledge to the product management team to develop product roadmap
 * Accessed Energy Star APIs and data for scoring buildings and managing customer building portfolios
 * Ensured quality releases with continuous integration from Jenkins (Hudson at the time)
 * Managed a small team of developers, designers and quality assurance engineers
