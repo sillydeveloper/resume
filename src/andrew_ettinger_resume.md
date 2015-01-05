@@ -25,21 +25,21 @@ I've built lots of great applications over the past 15 years, and have led a var
 ### Details
 
 #### VendScreen
-** Software Engineering Manager **
-June 2014 - Present
+** Software Engineering Manager **  
+June 2014 - Present  
 
-** Lead Software Engineer **
-April 2014 - June 2014
+** Lead Software Engineer **  
+April 2014 - June 2014  
 
-** Front End Engineer **
-February 2014 - April 2014
+** Front End Engineer **  
+February 2014 - April 2014  
 
 Technologies: Javascript, Node.js, AngularJS, Gulp, CSS3, git, JIRA, jQuery, Java, JPA, Guice, Postgres, Bootstrap.
 
 VendScreen provides cashless payment solutions for unattended sales at vending machines. With 6000 devices in the field and roughly 40k transactions daily, I helped VendScreen stabilize their IoT product line and provided vision to the next generation of their devices.
 
 * Managed development of embedded systems, Android applications, Java APIs, and front end application development in NodeJS and AngularJS
-* Successfully navigated device and customer migration to the new architecture
+* Successfully navigated device and customer information migration to new architecture
 * Grew the team from 2 to 10 engineers
 * Helped guide policy for PCI compliance initiatives
 * Provided a phased architecture to successfully deploy new code into a legacy environment
@@ -48,8 +48,8 @@ VendScreen provides cashless payment solutions for unattended sales at vending m
 * * *
 
 #### Postano / TigerLogic
-** Senior Front End Engineer **
-August 2013 – Present
+** Senior Front End Engineer **  
+August 2013 – Present  
 Technologies: JavaScript, AngularJS, Node.js, Redis, Grunt, D3, jQuery, SCSS, git, Python, lodash / underscore
 
 Postano provides social media aggregation to major brands and sports teams that can be embedded in a client's website or put up on bigscreens for a conference or sporting event. Postano brought me in to help them reach their deadline on the next version of both their embeddable and big screen, event-based social media aggregation and moderation products.
@@ -62,8 +62,8 @@ Postano provides social media aggregation to major brands and sports teams that 
 * * *
 
 #### IGS
-** Technical Co-Founder **
-September 2011 – August 2013
+** Technical Co-Founder **  
+September 2011 – August 2013  
 Technologies: JavaScript, haml, PhoneGap, Kendo, iOS, Android, jQuery, CSS3, HTML5, AWS, Ruby, Rails, Postgres, git, Solr
 
 IGS built dispatch management applications for the heating, cooling and air-conditioning industry to help small business owners  optimize the schedules of their technicians and installers. As the technical co-founder I participated in all aspects of business and technical development. My primary responsibilities included product development and delivery, including personnel management and budgeting, product roadmap, market analysis for feature discovery and design, as well as building the core product and supporting it.
@@ -80,9 +80,9 @@ As technical co-founder I participated in all aspects of business and technical 
 * * *
 
 #### AirAdvice
-** Principal Software Engineer **
-2006 – September 2011
-Technologies: PHP, mySQL, Gearman, jpGraph (charting), VB, Salesforce, C, Jenkins/Hudson, JavaScript, jQuery, git
+** Principal Software Engineer **  
+2006 – September 2011  
+Technologies: PHP, mySQL, Gearman, VB, Salesforce, C, Jenkins/Hudson, JavaScript, jQuery, git
 
 At AirAdvice my role was to provide technical leadership in modernizing their existing applications and develop new energy products to break into new markets. I held the title of Principal Software Engineer from 2007-2011. My responsibilities included  establishing technical feasibility, providing architecture, giving mentorship, gathering requirements from customers, establishing the company's technical roadmap, as well as contributing heavily to the development of core products.
 
@@ -97,9 +97,9 @@ At AirAdvice my role was to provide technical leadership in modernizing their ex
 * * *
 
 #### Lunar Logic
-** Software Developer II **
-2004 – 2006
-Technologies: Java, Spring, Hibernate, PHP, Ruby, Rails, mySQL, JavaScript, Prototype, Flash, SVN
+** Software Developer II **  
+2004 – 2006  
+Technologies: Java, PHP, Ruby, Rails, mySQL, JavaScript, Prototype, Flash, SVN
 
 My team at Lunar Logic was in charge of internal applications for a 180 person development crew their support staff. We also provided some light external subcontracting.
 
@@ -113,26 +113,26 @@ My team at Lunar Logic was in charge of internal applications for a 180 person d
 
 #### Other Highlights
 
-#### Lane Forest Business Development
-2003 – 2004
+#### Lane Forest Business Development  
+2003 – 2004  
 Technologies: PHP, JavaScript, Flash, CSS
 
 Business tools and software support to a wide array of business processes and product lines. Custom CMS with product tracking and reporting tools in PHP and JavaScript.
 
-#### University of Oregon
-2001 – 2002
+#### University of Oregon  
+2001 – 2002  
 Technologies: VB, SQLServer
 
 Rebuilt the Knight Library Systems Department's billing and late fee management system. Included rigorous error checking consumate with working with financial data, integration with the main University account management systems and a new desktop front-end in VB. Most of the application logic was in T-SQL.
 
-#### PremiereLink Communications
-2000 – 2001
+#### PremiereLink Communications  
+2000 – 2001  
 Technologies: ColdFusion, JavaScript, CSS
 
 Providing software development for a variety of clients throughout the Northwest, I built a reusable inventory tracking, shopping cart, and CMS system with approval mechanisms, simplified HTML markup and application deployment systems.
 
-#### Oregon State University
-1998 – 1999
+#### Oregon State University  
+1998 – 1999  
 Technologies: ColdFusion, JavaScript, CSS
 
 Built one of the first online course tools for the Communications Media Center. The system integrated with the main course catalog, and gave professors access to a variety of tools to help them build online course content including tests.
