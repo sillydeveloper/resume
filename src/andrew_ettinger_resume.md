@@ -63,7 +63,7 @@ Postano provides social media aggregation to major brands and sports teams that 
 
 #### IGS
 ** Technical Co-Founder **  
-September 2011 – August 2013  
+September 2011 – December 2014  
 Technologies: JavaScript, haml, PhoneGap, Kendo, iOS, Android, jQuery, CSS3, HTML5, AWS, Ruby, Rails, Postgres, git, Solr
 
 IGS built dispatch management applications for the heating, cooling and air-conditioning industry to help small business owners  optimize the schedules of their technicians and installers. As the technical co-founder I participated in all aspects of business and technical development. My primary responsibilities included product development and delivery, including personnel management and budgeting, product roadmap, market analysis for feature discovery and design, as well as building the core product and supporting it.
