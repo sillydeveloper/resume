@@ -141,10 +141,10 @@ Built one of the first online course tools for the Communications Media Center. 
 
 ### Find out more
 
-Twitter: [@andru](https://twitter.com/andru)
-Blog: [medium.com/@andru](http://medium.com/@andru/)
-LinkedIn: [/in/sillydeveloper](http://www.linkedin.com/in/sillydeveloper)
-GitHub: [sillydeveloper](https://github.com/sillydeveloper)
+* Twitter: [@andru](https://twitter.com/andru)
+* Blog: [medium.com/@andru](http://medium.com/@andru/)
+* LinkedIn: [/in/sillydeveloper](http://www.linkedin.com/in/sillydeveloper)
+* GitHub: [sillydeveloper](https://github.com/sillydeveloper)
 
 [Download this resume](https://github.com/sillydeveloper/resume) and compile it into your own format.
 
