@@ -1,6 +1,6 @@
 # Andrew Ettinger
-Portland, Oregon
-[sillydeveloper@gmail.com](mailto:sillydeveloper@gmail.com)
+Portland, Oregon  
+[andrew@skoobistudios.com](mailto:andrew@skoobistudios.com)  
 503.997.5901
 
 * * *
@@ -19,6 +19,8 @@ I've built lots of great applications over the past 15 years, and have led a var
 * Energy analysis software for commercial buildings
 * Building some of the first distance education tools for Oregon State University's New Media Center (pre-dating BlackBoard!)
 * Invoicing automation at the University of Oregon
+
+I'm passionate about solving problems in cost effective ways that generate real revenue.
 
 * * *
 
