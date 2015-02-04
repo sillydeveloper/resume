@@ -35,28 +35,15 @@ February 2014 - April 2014
 
 Technologies: Javascript, Node.js, AngularJS, Gulp, CSS3, git, JIRA, jQuery, Java, Postgres, Bootstrap.
 
-VendScreen provides cashless payment solutions for unattended sales at vending machines. With 6000 devices in the field and roughly 50k transactions daily, I helped VendScreen stabilize their IoT product line and provided vision to the next generation of their devices.
+VendScreen provides cashless payment solutions for unattended sales at vending machines. With 6000 devices in the field and roughly 50k transactions daily, I helped VendScreen make their IoT product line a robust system and provided vision to the next generation of their devices.
 
-* Managed development of embedded systems, Android applications, Java APIs, and front end application development in NodeJS and AngularJS
-* Implemented agile processes to deliver results
-* Provided competitive analysis to get the right product into the market
-* Grew the team from 2 to 10 engineers
-* Helped guide policy for PCI compliance initiatives
-* Worked with vendors and strategic partners to deliver cost effective value
-* Successfully migrated existing customers and their data to new architecture
-
-* * *
-
-#### Postano / TigerLogic
-** Senior Front End Engineer **  
-August 2013 – Present  
-Technologies: JavaScript, AngularJS, Node.js, Redis, Grunt, D3, jQuery, SCSS, git, Python, lodash / underscore
-
-Postano provides social media aggregation to major brands and sports teams that can be embedded in a client's website or put up on bigscreens for a conference or sporting event. Postano brought me in to help them reach their deadline on the next version of both their embeddable and big screen event-based social media aggregation and moderation products.
-
-* Architected the Postano embeddable social media system to be extensible to multiple plugins beyond the standard Isotope format, expanding Postano's product line.
-* Implemented Angular for moderating social content, including adding custom directives, services, and filters to make API access quick and painless.
-* Provided team leadership through training, documentation and tracking 
+* Managed development of embedded systems, Android applications, Java APIs, and front end application development in NodeJS and AngularJS.
+* Implemented agile processes to deliver results.
+* Provided competitive analysis to get the right product into the market.
+* Grew the team from 2 to 10 engineers.
+* Helped guide policy for PCI compliance initiatives.
+* Worked with vendors and strategic partners to deliver cost effective value.
+* Successfully migrated existing customers and their data to new architecture.
 
 * * *
 
@@ -67,13 +54,27 @@ Technologies: JavaScript, haml, PhoneGap, Kendo, iOS, Android, jQuery, CSS3, HTM
 
 IGS built dispatch management applications for the heating, cooling and air-conditioning industry to help small business owners  optimize the schedules of their technicians and installers. As the technical co-founder I participated in all aspects of business and technical development. My primary responsibilities included product development and delivery, including personnel management and budgeting, product roadmap, market analysis for feature discovery and design, as well as building the core product and supporting it.
 
-* Proved concept with an MVP
-* Successfully raised based on MVP experience
+* Proved concept with an MVP.
+* Successfully raised based on MVP experience.
 * Developed MVP into a dispatch, CRM and inventory management platform for the HVAC industry
-* Built mobile applications for field technicians
-* Built business development models that represented customer life cycle cost, analyzed the benefits of new features, and provided scalability and COGS estimates
+* Built mobile applications for field technicians.
+* Built business development models that represented customer life cycle cost, analyzed the benefits of new features, and provided scalability and COGS estimates.
 
 * * *
+
+#### Postano / TigerLogic
+** Senior Front End Engineer **  
+August 2013 – Febraury 2014  
+Technologies: JavaScript, AngularJS, Node.js, Redis, Grunt, D3, jQuery, SCSS, git, Python, lodash / underscore
+
+Postano provides social media aggregation to major brands and sports teams that can be embedded in a client's website or put up on bigscreens for a conference or sporting event. Postano brought me in to help them reach their deadline on the next version of both their embeddable and big screen event-based social media aggregation and moderation products.
+
+* Architected the Postano embeddable social media system to be extensible to multiple plugins beyond the standard Isotope format, expanding Postano's product line.
+* Implemented Angular for moderating social content, including adding custom directives, services, and filters to make API access quick and painless.
+* Provided team leadership through training, documentation and tracking 
+
+* * *
+
 
 #### AirAdvice
 ** Principal Software Engineer **  
@@ -82,12 +83,12 @@ Technologies: PHP, mySQL, Gearman, VB, Salesforce, C, Jenkins/Hudson, JavaScript
 
 At AirAdvice my role was to provide technical leadership in modernizing their existing applications and develop new energy products to break into new markets. 
 
-* Broke into new markets by developing commercial building environmental monitoring data aggregation and analysis tools
+* Broke into new markets by developing commercial building environmental monitoring data aggregation and analysis tools.
 * Architected, built, and deployed online tools for gathering complex inputs to feed the energy models.
 * Open sourced the [MVC PHP framework](https://github.com/sillydeveloper/ploof) we used
-* Designed and implemented a data analysis toolset to calculate building performance based on a variety of heuristics
-* Accessed Energy Star APIs and data for scoring buildings and managing customer building portfolios
-* Ensured quality releases with continuous integration
+* Designed and implemented a data analysis toolset to calculate building performance based on a variety of heuristics.
+* Accessed Energy Star APIs and data for scoring buildings and managing customer building portfolios.
+* Ensured quality releases with continuous integration.
 * Established technical feasibility, provided architecture, gave mentorship, gathered requirements from customers, established the company's technical roadmap, as well as contributed heavily to the development of core products.
 
 * * *
@@ -99,9 +100,9 @@ Technologies: Java, PHP, Ruby, Rails, mySQL, JavaScript, Prototype, Flash, SVN
 
 My team at Lunar Logic was in charge of internal applications for a 180 person engineering crew and their support staff.
 
-* Built a tech support system with many of the features you see in current customer support systems, including automatic email handling, call grouping and assignment, and time reporting
-* Built the company's internal calendar groupware and time tracking systems that provided project managers with the ability to track and cost large software development projects
-* Composed RFP responses with the technical writing team
+* Built a tech support system with many of the features you see in current customer support systems, including automatic email handling, call grouping and assignment, and time reporting.
+* Built the company's internal calendar groupware and time tracking systems that provided project managers with the ability to track and cost large software development projects.
+* Composed RFP responses with the technical writing team.
 
 * * *
 
@@ -140,6 +141,6 @@ Built one of the first online course tools for the Communications Media Center. 
 * LinkedIn: [/in/sillydeveloper](http://www.linkedin.com/in/sillydeveloper)
 * GitHub: [sillydeveloper](https://github.com/sillydeveloper)
 
-[Download this resume](https://github.com/sillydeveloper/resume) and compile it into your own format.
+[Download this resume](https://github.com/sillydeveloper/resume) and compile it into your own format with Grunt.
 
 **_References provided on request._**
