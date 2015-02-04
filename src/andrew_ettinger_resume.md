@@ -7,28 +7,25 @@ Portland, Oregon
 
 ### Summary
 
-I've built lots of great applications over the past 15 years, and have led a variety of teams in the design, implementation and deployment of:
+I've been a part of, and led, a variety of great teams in the design, implementation and deployment of front end, back end, IoT, aggregation and analysis tools for more than a decade. My technical background and practical delivery experience can help your team reach the next level.
 
-* Command and control software of remote IoT hardware
-* Payment processing solutions
-* Route, project and schedule management for a mobilized workforce
-* Aggregation and publishing of social media streams
-* Project time tracking and invoicing software
-* Company-wide system integrations
-* Software support tooling for pooling, assigning and tracking requests
-* Energy analysis software for commercial buildings
-* Building some of the first distance education tools for Oregon State University's New Media Center (pre-dating BlackBoard!)
-* Invoicing automation at the University of Oregon
-
-I'm passionate about solving problems in cost effective ways that generate real revenue.
+I'm passionate about working with great people to solve problems in cost effective ways that generate real revenue.
 
 * * *
 
 ### Details
 
+#### Skoobi Studios
+** Principal **  
+February 2015 - Present  
+
+Skoobi Studios is focused on market analysis tools for new and existing products. 
+
+* * *
+
 #### VendScreen
 ** Software Engineering Manager **  
-June 2014 - Present  
+June 2014 - February 2015  
 
 ** Lead Software Engineer **  
 April 2014 - June 2014  
@@ -36,16 +33,17 @@ April 2014 - June 2014
 ** Front End Engineer **  
 February 2014 - April 2014  
 
-Technologies: Javascript, Node.js, AngularJS, Gulp, CSS3, git, JIRA, jQuery, Java, JPA, Guice, Postgres, Bootstrap.
+Technologies: Javascript, Node.js, AngularJS, Gulp, CSS3, git, JIRA, jQuery, Java, Postgres, Bootstrap.
 
-VendScreen provides cashless payment solutions for unattended sales at vending machines. With 6000 devices in the field and roughly 40k transactions daily, I helped VendScreen stabilize their IoT product line and provided vision to the next generation of their devices.
+VendScreen provides cashless payment solutions for unattended sales at vending machines. With 6000 devices in the field and roughly 50k transactions daily, I helped VendScreen stabilize their IoT product line and provided vision to the next generation of their devices.
 
 * Managed development of embedded systems, Android applications, Java APIs, and front end application development in NodeJS and AngularJS
-* Successfully navigated device and customer information migration to new architecture
+* Implemented agile processes to deliver results
+* Provided competitive analysis to get the right product into the market
 * Grew the team from 2 to 10 engineers
 * Helped guide policy for PCI compliance initiatives
-* Provided a phased architecture to successfully deploy new code into a legacy environment
 * Worked with vendors and strategic partners to deliver cost effective value
+* Successfully migrated existing customers and their data to new architecture
 
 * * *
 
@@ -54,12 +52,11 @@ VendScreen provides cashless payment solutions for unattended sales at vending m
 August 2013 – Present  
 Technologies: JavaScript, AngularJS, Node.js, Redis, Grunt, D3, jQuery, SCSS, git, Python, lodash / underscore
 
-Postano provides social media aggregation to major brands and sports teams that can be embedded in a client's website or put up on bigscreens for a conference or sporting event. Postano brought me in to help them reach their deadline on the next version of both their embeddable and big screen, event-based social media aggregation and moderation products.
+Postano provides social media aggregation to major brands and sports teams that can be embedded in a client's website or put up on bigscreens for a conference or sporting event. Postano brought me in to help them reach their deadline on the next version of both their embeddable and big screen event-based social media aggregation and moderation products.
 
 * Architected the Postano embeddable social media system to be extensible to multiple plugins beyond the standard Isotope format, expanding Postano's product line.
 * Implemented Angular for moderating social content, including adding custom directives, services, and filters to make API access quick and painless.
-* Provided team leadership to document and track engineering progress throughout sprints.
-* Standardized documentation
+* Provided team leadership through training, documentation and tracking 
 
 * * *
 
@@ -70,14 +67,11 @@ Technologies: JavaScript, haml, PhoneGap, Kendo, iOS, Android, jQuery, CSS3, HTM
 
 IGS built dispatch management applications for the heating, cooling and air-conditioning industry to help small business owners  optimize the schedules of their technicians and installers. As the technical co-founder I participated in all aspects of business and technical development. My primary responsibilities included product development and delivery, including personnel management and budgeting, product roadmap, market analysis for feature discovery and design, as well as building the core product and supporting it.
 
-As technical co-founder I participated in all aspects of business and technical development.
-
 * Proved concept with an MVP
 * Successfully raised based on MVP experience
 * Developed MVP into a dispatch, CRM and inventory management platform for the HVAC industry
 * Built mobile applications for field technicians
 * Built business development models that represented customer life cycle cost, analyzed the benefits of new features, and provided scalability and COGS estimates
-* Managed contract workers to meet business objectives
 
 * * *
 
@@ -86,15 +80,15 @@ As technical co-founder I participated in all aspects of business and technical 
 2006 – September 2011  
 Technologies: PHP, mySQL, Gearman, VB, Salesforce, C, Jenkins/Hudson, JavaScript, jQuery, git
 
-At AirAdvice my role was to provide technical leadership in modernizing their existing applications and develop new energy products to break into new markets. I held the title of Principal Software Engineer from 2007-2011. My responsibilities included  establishing technical feasibility, providing architecture, giving mentorship, gathering requirements from customers, establishing the company's technical roadmap, as well as contributing heavily to the development of core products.
+At AirAdvice my role was to provide technical leadership in modernizing their existing applications and develop new energy products to break into new markets. 
 
-* Led a team of three developers, a QA engineer, and a designer to develop a service oriented architecture for building environmental monitoring data that included energy modeling software, report generation, and data aggregation systems
-* Took complex input requirements and architected, built, and deployed web-based wizards to take in building technical data from customers and provide energy analysis, using JavaScript and an object oriented [MVC PHP framework](https://github.com/sillydeveloper/ploof) I created
-* Designed and implemented a data analysis toolset in PHP that could calculate building performance based on a variety of heuristics: when lights were left on at night, whether or not a building's economizer was working properly, or if the temperature in the building was meeting the building management system's schedule
-* Built charting tools on top of jpGraph to display additional building data like occupancy schedules
+* Broke into new markets by developing commercial building environmental monitoring data aggregation and analysis tools
+* Architected, built, and deployed online tools for gathering complex inputs to feed the energy models.
+* Open sourced the [MVC PHP framework](https://github.com/sillydeveloper/ploof) we used
+* Designed and implemented a data analysis toolset to calculate building performance based on a variety of heuristics
 * Accessed Energy Star APIs and data for scoring buildings and managing customer building portfolios
-* Ensured quality releases with continuous integration from Jenkins (Hudson at the time)
-* Managed a small team of developers, designers and quality assurance engineers
+* Ensured quality releases with continuous integration
+* Established technical feasibility, provided architecture, gave mentorship, gathered requirements from customers, established the company's technical roadmap, as well as contributed heavily to the development of core products.
 
 * * *
 
@@ -103,12 +97,10 @@ At AirAdvice my role was to provide technical leadership in modernizing their ex
 2004 – 2006  
 Technologies: Java, PHP, Ruby, Rails, mySQL, JavaScript, Prototype, Flash, SVN
 
-My team at Lunar Logic was in charge of internal applications for a 180 person development crew their support staff. We also provided some light external subcontracting.
+My team at Lunar Logic was in charge of internal applications for a 180 person engineering crew and their support staff.
 
-* Developed and deployed an online purchase order system for the University of Oregon that integrated with their internal systems in Java, Spring, and Hibernate
-* Built a tech support system in an early version of Ruby on Rails with many of the features you see in current customer support systems, including automatic email handling, call grouping and assignment, and time reporting
-* Built the company's internal calendar groupware and time tracking systems that provided project managers with the ability to track and cost the large software development projects that Lunar Logic managed in PHP (we also custom built our own MVC framework for these projects, including ORM with lazy loading)
-* Worked with Levi-Strauss' accounting department to consolidate internal tracking systems, using Microsoft tools
+* Built a tech support system with many of the features you see in current customer support systems, including automatic email handling, call grouping and assignment, and time reporting
+* Built the company's internal calendar groupware and time tracking systems that provided project managers with the ability to track and cost large software development projects
 * Composed RFP responses with the technical writing team
 
 * * *
@@ -119,19 +111,19 @@ My team at Lunar Logic was in charge of internal applications for a 180 person d
 2003 – 2004  
 Technologies: PHP, JavaScript, Flash, CSS
 
-Business tools and software support to a wide array of business processes and product lines. Custom CMS with product tracking and reporting tools in PHP and JavaScript.
+Business tools and software support to a wide array of business processes and product lines. 
 
 #### University of Oregon  
 2001 – 2002  
 Technologies: VB, SQLServer
 
-Rebuilt the Knight Library Systems Department's billing and late fee management system. Included rigorous error checking consumate with working with financial data, integration with the main University account management systems and a new desktop front-end in VB. Most of the application logic was in T-SQL.
+Rebuilt the Knight Library Systems Department's billing and late fee management system. 
 
 #### PremiereLink Communications  
 2000 – 2001  
 Technologies: ColdFusion, JavaScript, CSS
 
-Providing software development for a variety of clients throughout the Northwest, I built a reusable inventory tracking, shopping cart, and CMS system with approval mechanisms, simplified HTML markup and application deployment systems.
+Provided software development for a variety of clients throughout the Northwest, I built a reusable inventory tracking, shopping cart, and CMS system with approval mechanisms, simplified HTML markup and application deployment systems.
 
 #### Oregon State University  
 1998 – 1999  
